@@ -1,12 +1,20 @@
 from pages.base_page import BasePage
 from selenium.webdriver.common.by import By
-
+from pages.cart_page import CartPage
 
 class InventoryPage(BasePage):
 
     INVENTORY_CONTAINER = (By.ID, "inventory_container")
     PRODUCTS = (By.CLASS_NAME, "inventory_item")
-
+    BACKPACK_ADD_TO_CART = (By.ID, "add-to-cart-sauce-labs-backpack")
+    CART_BADGE = (By.CLASS_NAME, "shopping_cart_badge")
+    CART_ICON = (By.CLASS_NAME, "shopping_cart_link")
+    ITEM_NAME = (By.CLASS_NAME, "inventory_item_name")
+    
+    
+    
+    
+    
     def __init__(self, driver):
         super().__init__(driver)
 
@@ -18,3 +26,26 @@ class InventoryPage(BasePage):
     def get_product_count(self):
         products = self.find_elements(self.PRODUCTS)
         return len(products)
+    
+    def add_to_cart(self):
+        self.click(self.BACKPACK_ADD_TO_CART)
+
+    def get_cart_badge_count(self):
+        badge = self.wait_for_element(self.CART_BADGE)
+        text = badge.text
+        badge_count = int(text)
+        return badge_count
+
+    def click_cart(self):
+        self.click(self.CART_ICON)
+        return CartPage(self.driver)
+    
+    def is_item_present(self):
+        item = self.wait_for_element(self.ITEM_NAME)
+        item_text = self.item.text
+        return item_text == "Sauce Labs Backpack"
+
+
+    
+
+        
