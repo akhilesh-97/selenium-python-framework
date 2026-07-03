@@ -1,0 +1,6 @@
+2026-07-03 12:02:07,476 : INFO : Launching Chrome Browser
+2026-07-03 12:02:07,481 : INFO : ====== WebDriver manager ======
+2026-07-03 12:02:08,144 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-03 12:02:10,263 : INFO : Navigated to Swag Labs
+2026-07-03 12:02:10,263 : INFO : Logging in with valid credentials
+2026-07-03 12:02:10,568 : INFO : login successful

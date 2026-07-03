@@ -1,10 +1,13 @@
 from selenium.webdriver.common.by import By
 from pages.base_page import BasePage
 from pages.inventory_page import InventoryPage
-
+from utilities.logger import LogGenerator
 
 class LoginPage(BasePage):
     
+    logger = LogGenerator.log()
+
+   
     def __init__(self, driver):
         super().__init__(driver)
 
@@ -14,17 +17,24 @@ class LoginPage(BasePage):
     LOGIN_BUTTON = (By.ID, "login-button")
 
     def enter_username(self, username):
-        self.driver.find_element(*self.USERNAME).send_keys(username)
+        self.type(self.USERNAME, username)
 
     def enter_password(self, password):
-        self.driver.find_element(*self.PASSWORD).send_keys(password)
+        self.type(self.PASSWORD, password)
 
     def click_login_button(self):
-        self.driver.find_element(*self.LOGIN_BUTTON).click()
+        self.click(self.LOGIN_BUTTON)
 
     def login(self, username, password):
+
+        self.logger.info("Logging in with valid credentials")
+
         self.enter_username(username)
         self.enter_password(password)
         self.click_login_button()
+
+        self.logger.info("login successful")
+
         return InventoryPage(self.driver)
     
+   

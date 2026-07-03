@@ -22,6 +22,7 @@ class CheckoutInfoPage(BasePage):
         self.click(self.CONTINUE_BTN)
         return CheckoutOverviewPage(self.driver)
     
+    
 
     
 
