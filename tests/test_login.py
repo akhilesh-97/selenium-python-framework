@@ -1,12 +1,21 @@
+import pytest
+from utilities.json_reader import read_json
 from pages.login_page import LoginPage
 
 
-def test_valid_login(driver):
+login_data = read_json("test_data/login_data.json")
+
+@pytest.mark.parametrize("test_data",login_data)
+
+
+def test_valid_login(driver, test_data):
 
         login_page = LoginPage(driver)
 
         inventory_page = login_page.login(
-                "standard_user", "secret_sauce")
+                test_data["username"],
+                  test_data["password"]
+        )
 
         
         assert inventory_page.is_inventory_loaded(), \

@@ -9,7 +9,7 @@ class InventoryPage(BasePage):
     BACKPACK_ADD_TO_CART = (By.ID, "add-to-cart-sauce-labs-backpack")
     CART_BADGE = (By.CLASS_NAME, "shopping_cart_badge")
     CART_ICON = (By.CLASS_NAME, "shopping_cart_link")
-    ITEM_NAME = (By.CLASS_NAME, "inventory_item_name")
+   
     
     
     
@@ -40,11 +40,6 @@ class InventoryPage(BasePage):
         self.click(self.CART_ICON)
         return CartPage(self.driver)
     
-    def is_item_present(self):
-        item = self.wait_for_element(self.ITEM_NAME)
-        item_text = self.item.text
-        return item_text == "Sauce Labs Backpack"
-
 
     
 

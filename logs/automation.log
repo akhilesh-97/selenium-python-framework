@@ -4,3 +4,87 @@
 2026-07-03 12:02:10,263 : INFO : Navigated to Swag Labs
 2026-07-03 12:02:10,263 : INFO : Logging in with valid credentials
 2026-07-03 12:02:10,568 : INFO : login successful
+2026-07-04 11:18:19,786 : INFO : Launching Chrome Browser
+2026-07-04 11:18:19,806 : INFO : ====== WebDriver manager ======
+2026-07-04 11:18:21,146 : INFO : Get LATEST chromedriver version for google-chrome
+2026-07-04 11:18:21,981 : INFO : Get LATEST chromedriver version for google-chrome
+2026-07-04 11:18:22,579 : INFO : WebDriver version 149.0.7827.155 selected
+2026-07-04 11:18:22,585 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-07-04 11:18:22,585 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-07-04 11:18:23,246 : INFO : Driver downloading response is 200
+2026-07-04 11:18:26,105 : INFO : Driver has been saved in cache [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-07-04 11:18:29,371 : INFO : Navigated to Swag Labs
+2026-07-04 11:18:29,372 : INFO : Logging in with valid credentials
+2026-07-04 11:18:29,609 : INFO : login successful
+2026-07-04 11:24:57,824 : INFO : Launching Chrome Browser
+2026-07-04 11:24:57,828 : INFO : ====== WebDriver manager ======
+2026-07-04 11:24:58,497 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 11:25:01,184 : INFO : Navigated to Swag Labs
+2026-07-04 11:25:01,185 : INFO : Logging in with valid credentials
+2026-07-04 11:25:01,457 : INFO : login successful
+2026-07-04 11:25:22,685 : INFO : Launching Chrome Browser
+2026-07-04 11:25:22,689 : INFO : ====== WebDriver manager ======
+2026-07-04 11:25:23,337 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 11:25:25,568 : INFO : Navigated to Swag Labs
+2026-07-04 11:25:25,568 : INFO : Logging in with valid credentials
+2026-07-04 11:25:25,824 : INFO : login successful
+2026-07-04 11:44:55,075 : INFO : Launching Chrome Browser
+2026-07-04 11:44:55,081 : INFO : ====== WebDriver manager ======
+2026-07-04 11:44:55,803 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 11:44:58,356 : INFO : Navigated to Swag Labs
+2026-07-04 11:44:58,357 : INFO : Logging in with valid credentials
+2026-07-04 11:44:58,614 : INFO : login successful
+2026-07-04 12:27:03,217 : INFO : Launching Chrome Browser
+2026-07-04 12:27:03,225 : INFO : ====== WebDriver manager ======
+2026-07-04 12:27:03,958 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 12:27:06,085 : INFO : Navigated to Swag Labs
+2026-07-04 12:27:09,048 : INFO : Launching Chrome Browser
+2026-07-04 12:27:09,048 : INFO : ====== WebDriver manager ======
+2026-07-04 12:27:09,722 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 12:27:11,667 : INFO : Navigated to Swag Labs
+2026-07-04 12:27:11,668 : INFO : Logging in with valid credentials
+2026-07-04 12:27:11,931 : INFO : login successful
+2026-07-04 12:27:14,303 : INFO : Launching Chrome Browser
+2026-07-04 12:27:14,303 : INFO : ====== WebDriver manager ======
+2026-07-04 12:27:14,965 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 12:27:16,922 : INFO : Navigated to Swag Labs
+2026-07-04 12:27:16,923 : INFO : Logging in with valid credentials
+2026-07-04 12:27:17,173 : INFO : login successful
+2026-07-04 12:43:52,662 : INFO : Launching Chrome Browser
+2026-07-04 12:43:52,667 : INFO : ====== WebDriver manager ======
+2026-07-04 12:43:53,381 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 12:43:55,647 : INFO : Navigated to Swag Labs
+2026-07-04 12:43:58,452 : INFO : Launching Chrome Browser
+2026-07-04 12:43:58,453 : INFO : ====== WebDriver manager ======
+2026-07-04 12:43:59,122 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 12:44:01,054 : INFO : Navigated to Swag Labs
+2026-07-04 12:44:01,055 : INFO : Logging in with valid credentials
+2026-07-04 12:44:01,374 : INFO : login successful
+2026-07-04 12:44:03,774 : INFO : Launching Chrome Browser
+2026-07-04 12:44:03,774 : INFO : ====== WebDriver manager ======
+2026-07-04 12:44:04,449 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 12:44:06,621 : INFO : Navigated to Swag Labs
+2026-07-04 12:44:06,621 : INFO : Logging in with valid credentials
+2026-07-04 12:44:06,886 : INFO : login successful
+2026-07-04 16:06:51,894 : INFO : Launching Chrome Browser
+2026-07-04 16:06:51,902 : INFO : ====== WebDriver manager ======
+2026-07-04 16:06:52,656 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 16:06:56,965 : INFO : Navigated to Swag Labs
+2026-07-04 16:08:55,572 : INFO : Launching Chrome Browser
+2026-07-04 16:08:55,577 : INFO : ====== WebDriver manager ======
+2026-07-04 16:08:56,271 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 16:08:57,807 : INFO : Navigated to Swag Labs
+2026-07-04 16:08:57,808 : INFO : Logging in with valid credentials
+2026-07-04 16:08:58,087 : INFO : login successful
+2026-07-04 16:09:00,476 : INFO : Launching Chrome Browser
+2026-07-04 16:09:00,476 : INFO : ====== WebDriver manager ======
+2026-07-04 16:09:01,107 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 16:09:03,001 : INFO : Navigated to Swag Labs
+2026-07-04 16:09:03,001 : INFO : Logging in with valid credentials
+2026-07-04 16:09:03,253 : INFO : login successful
+2026-07-04 16:09:05,631 : INFO : Launching Chrome Browser
+2026-07-04 16:09:05,631 : INFO : ====== WebDriver manager ======
+2026-07-04 16:09:06,286 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-04 16:09:08,310 : INFO : Navigated to Swag Labs
+2026-07-04 16:09:08,311 : INFO : Logging in with valid credentials
+2026-07-04 16:09:13,572 : INFO : login successful

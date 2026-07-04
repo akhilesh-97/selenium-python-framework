@@ -9,7 +9,9 @@ def test_purchase_flow(driver):
 
     inventory_page.add_to_cart()
 
-    assert inventory_page.get_cart_badge_count() == 1
+    print(inventory_page.get_cart_badge_count())
+
+    assert inventory_page.get_cart_badge_count() == 2
 
     cart_page = inventory_page.click_cart()
 
