@@ -3,6 +3,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
+from utilities.config import Config
+
 class BasePage:
 
 
@@ -25,7 +27,7 @@ class BasePage:
         element.send_keys(text)
     
     def wait_for_element(self, locator):
-        wait = WebDriverWait(self.driver, 10)
+        wait = WebDriverWait(self.driver, Config.TIMEOUT)
        
         return wait.until(
              EC.visibility_of_element_located(locator)

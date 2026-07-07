@@ -88,3 +88,301 @@
 2026-07-04 16:09:08,310 : INFO : Navigated to Swag Labs
 2026-07-04 16:09:08,311 : INFO : Logging in with valid credentials
 2026-07-04 16:09:13,572 : INFO : login successful
+2026-07-07 17:14:34,136 : INFO : ====== WebDriver manager ======
+2026-07-07 17:14:36,360 : INFO : Get LATEST chromedriver version for google-chrome
+2026-07-07 17:14:37,556 : INFO : Get LATEST chromedriver version for google-chrome
+2026-07-07 17:14:37,870 : INFO : WebDriver version 149.0.7827.155 selected
+2026-07-07 17:14:37,879 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-07-07 17:14:37,879 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-07-07 17:14:38,458 : INFO : Driver downloading response is 200
+2026-07-07 17:14:41,463 : INFO : Driver has been saved in cache [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-07-07 17:14:43,760 : INFO : Launching Chrome Browser
+2026-07-07 17:14:47,051 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 17:14:49,237 : INFO : Closing Browser
+2026-07-07 17:14:51,456 : INFO : ====== WebDriver manager ======
+2026-07-07 17:14:52,451 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 17:14:53,731 : INFO : Launching Chrome Browser
+2026-07-07 17:14:54,271 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 17:14:54,272 : INFO : Logging in with valid credentials
+2026-07-07 17:14:54,584 : INFO : Closing Browser
+2026-07-07 17:14:56,747 : INFO : ====== WebDriver manager ======
+2026-07-07 17:14:57,646 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 17:14:58,922 : INFO : Launching Chrome Browser
+2026-07-07 17:14:59,586 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 17:14:59,587 : INFO : Logging in with valid credentials
+2026-07-07 17:14:59,702 : INFO : Closing Browser
+2026-07-07 17:15:01,858 : INFO : ====== WebDriver manager ======
+2026-07-07 17:15:02,800 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 17:15:04,064 : INFO : Launching Chrome Browser
+2026-07-07 17:15:04,791 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 17:15:04,792 : INFO : Logging in with valid credentials
+2026-07-07 17:15:04,930 : INFO : Closing Browser
+2026-07-07 17:15:07,077 : INFO : ====== WebDriver manager ======
+2026-07-07 17:15:07,832 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 17:15:09,014 : INFO : Launching Chrome Browser
+2026-07-07 17:15:12,644 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 17:15:12,645 : INFO : Logging in with valid credentials
+2026-07-07 17:15:12,767 : INFO : Closing Browser
+2026-07-07 18:03:17,954 : INFO : ====== WebDriver manager ======
+2026-07-07 18:03:19,235 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 18:03:20,486 : INFO : Launching Chrome Browser
+2026-07-07 18:03:21,249 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 18:03:21,903 : INFO : Closing Browser
+2026-07-07 18:03:24,058 : INFO : ====== WebDriver manager ======
+2026-07-07 18:03:24,732 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 18:03:25,863 : INFO : Launching Chrome Browser
+2026-07-07 18:03:26,405 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 18:03:26,406 : INFO : Logging in with valid credentials
+2026-07-07 18:03:26,668 : INFO : login successful
+2026-07-07 18:03:26,902 : INFO : Closing Browser
+2026-07-07 18:03:29,065 : INFO : ====== WebDriver manager ======
+2026-07-07 18:03:29,731 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 18:03:30,878 : INFO : Launching Chrome Browser
+2026-07-07 18:03:31,438 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 18:03:31,439 : INFO : Logging in with valid credentials
+2026-07-07 18:03:31,687 : INFO : login successful
+2026-07-07 18:03:31,905 : INFO : Closing Browser
+2026-07-07 18:03:34,054 : INFO : ====== WebDriver manager ======
+2026-07-07 18:03:34,711 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 18:03:35,810 : INFO : Launching Chrome Browser
+2026-07-07 18:03:36,487 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 18:03:36,487 : INFO : Logging in with valid credentials
+2026-07-07 18:03:41,735 : INFO : login successful
+2026-07-07 18:03:41,973 : INFO : Closing Browser
+2026-07-07 18:03:44,129 : INFO : ====== WebDriver manager ======
+2026-07-07 18:03:44,793 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 18:03:45,937 : INFO : Launching Chrome Browser
+2026-07-07 18:03:48,471 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 18:03:48,471 : INFO : Logging in with valid credentials
+2026-07-07 18:03:48,720 : INFO : login successful
+2026-07-07 18:03:55,710 : INFO : Closing Browser
+2026-07-07 19:50:33,265 : INFO : ====== WebDriver manager ======
+2026-07-07 19:50:34,036 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 19:50:34,912 : INFO : Launching Chrome Browser
+2026-07-07 19:50:39,953 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 19:50:44,777 : INFO : Closing Browser
+2026-07-07 19:50:46,931 : INFO : ====== WebDriver manager ======
+2026-07-07 19:50:47,588 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 19:50:48,732 : INFO : Launching Chrome Browser
+2026-07-07 19:50:49,345 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 19:50:49,346 : INFO : Logging in with valid credentials
+2026-07-07 19:50:49,642 : INFO : login successful
+2026-07-07 19:50:49,879 : INFO : Closing Browser
+2026-07-07 19:50:52,025 : INFO : ====== WebDriver manager ======
+2026-07-07 19:50:52,686 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 19:50:53,769 : INFO : Launching Chrome Browser
+2026-07-07 19:50:54,475 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 19:50:54,476 : INFO : Logging in with valid credentials
+2026-07-07 19:50:54,723 : INFO : login successful
+2026-07-07 19:50:54,929 : INFO : Closing Browser
+2026-07-07 19:50:57,073 : INFO : ====== WebDriver manager ======
+2026-07-07 19:50:57,716 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 19:50:58,815 : INFO : Launching Chrome Browser
+2026-07-07 19:51:00,538 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 19:51:00,539 : INFO : Logging in with valid credentials
+2026-07-07 19:51:05,785 : INFO : login successful
+2026-07-07 19:51:06,008 : INFO : Closing Browser
+2026-07-07 19:51:08,172 : INFO : ====== WebDriver manager ======
+2026-07-07 19:51:08,814 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 19:51:09,932 : INFO : Launching Chrome Browser
+2026-07-07 19:51:10,500 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 19:51:10,500 : INFO : Logging in with valid credentials
+2026-07-07 19:51:10,746 : INFO : login successful
+2026-07-07 19:51:11,389 : INFO : Closing Browser
+2026-07-07 20:03:34,535 : INFO : ====== WebDriver manager ======
+2026-07-07 20:03:35,272 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:03:36,465 : INFO : Launching Chrome Browser
+2026-07-07 20:03:37,712 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:03:38,411 : INFO : Closing Browser
+2026-07-07 20:03:40,561 : INFO : ====== WebDriver manager ======
+2026-07-07 20:03:41,245 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:03:42,408 : INFO : Launching Chrome Browser
+2026-07-07 20:03:42,981 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:03:42,981 : INFO : Logging in with valid credentials
+2026-07-07 20:03:43,249 : INFO : login successful
+2026-07-07 20:03:43,449 : INFO : Closing Browser
+2026-07-07 20:03:45,601 : INFO : ====== WebDriver manager ======
+2026-07-07 20:03:46,262 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:03:47,355 : INFO : Launching Chrome Browser
+2026-07-07 20:03:47,934 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:03:47,935 : INFO : Logging in with valid credentials
+2026-07-07 20:03:48,184 : INFO : login successful
+2026-07-07 20:03:48,379 : INFO : Closing Browser
+2026-07-07 20:03:50,533 : INFO : ====== WebDriver manager ======
+2026-07-07 20:03:51,194 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:03:52,308 : INFO : Launching Chrome Browser
+2026-07-07 20:03:52,850 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:03:52,851 : INFO : Logging in with valid credentials
+2026-07-07 20:03:58,105 : INFO : login successful
+2026-07-07 20:03:58,320 : INFO : Closing Browser
+2026-07-07 20:04:00,457 : INFO : ====== WebDriver manager ======
+2026-07-07 20:04:01,126 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:04:02,268 : INFO : Launching Chrome Browser
+2026-07-07 20:04:02,942 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:04:02,943 : INFO : Logging in with valid credentials
+2026-07-07 20:04:03,191 : INFO : login successful
+2026-07-07 20:04:14,384 : INFO : Screenshot saved: screenshots\test_purchase_flow_20260707_200414.png
+2026-07-07 20:04:14,385 : INFO : Closing Browser
+2026-07-07 20:05:01,194 : INFO : ====== WebDriver manager ======
+2026-07-07 20:05:01,855 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:05:03,024 : INFO : Launching Chrome Browser
+2026-07-07 20:05:03,778 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:05:09,377 : INFO : Closing Browser
+2026-07-07 20:05:11,512 : INFO : ====== WebDriver manager ======
+2026-07-07 20:05:12,185 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:05:13,334 : INFO : Launching Chrome Browser
+2026-07-07 20:05:14,135 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:05:14,135 : INFO : Logging in with valid credentials
+2026-07-07 20:05:14,395 : INFO : login successful
+2026-07-07 20:05:14,597 : INFO : Closing Browser
+2026-07-07 20:05:16,757 : INFO : ====== WebDriver manager ======
+2026-07-07 20:05:17,416 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:05:18,564 : INFO : Launching Chrome Browser
+2026-07-07 20:05:19,114 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:05:19,114 : INFO : Logging in with valid credentials
+2026-07-07 20:05:19,385 : INFO : login successful
+2026-07-07 20:05:19,600 : INFO : Closing Browser
+2026-07-07 20:05:21,739 : INFO : ====== WebDriver manager ======
+2026-07-07 20:05:22,401 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:05:23,546 : INFO : Launching Chrome Browser
+2026-07-07 20:05:29,284 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:05:29,284 : INFO : Logging in with valid credentials
+2026-07-07 20:05:34,546 : INFO : login successful
+2026-07-07 20:05:34,762 : INFO : Closing Browser
+2026-07-07 20:05:36,920 : INFO : ====== WebDriver manager ======
+2026-07-07 20:05:37,672 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:06:43,005 : INFO : ====== WebDriver manager ======
+2026-07-07 20:06:43,674 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:06:44,911 : INFO : Launching Chrome Browser
+2026-07-07 20:06:45,738 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:06:51,773 : INFO : Closing Browser
+2026-07-07 20:06:53,932 : INFO : ====== WebDriver manager ======
+2026-07-07 20:06:54,586 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:06:55,733 : INFO : Launching Chrome Browser
+2026-07-07 20:06:56,290 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:06:56,291 : INFO : Logging in with valid credentials
+2026-07-07 20:06:56,551 : INFO : login successful
+2026-07-07 20:06:56,767 : INFO : Closing Browser
+2026-07-07 20:06:58,910 : INFO : ====== WebDriver manager ======
+2026-07-07 20:06:59,565 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:07:00,671 : INFO : Launching Chrome Browser
+2026-07-07 20:07:06,293 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:07:06,294 : INFO : Logging in with valid credentials
+2026-07-07 20:07:06,539 : INFO : login successful
+2026-07-07 20:07:06,747 : INFO : Closing Browser
+2026-07-07 20:07:08,926 : INFO : ====== WebDriver manager ======
+2026-07-07 20:07:09,570 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:07:10,669 : INFO : Launching Chrome Browser
+2026-07-07 20:07:14,424 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:07:14,425 : INFO : Logging in with valid credentials
+2026-07-07 20:07:19,672 : INFO : login successful
+2026-07-07 20:07:19,888 : INFO : Closing Browser
+2026-07-07 20:07:22,009 : INFO : ====== WebDriver manager ======
+2026-07-07 20:07:22,663 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:07:23,809 : INFO : Launching Chrome Browser
+2026-07-07 20:07:29,452 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:07:29,452 : INFO : Logging in with valid credentials
+2026-07-07 20:07:29,710 : INFO : login successful
+2026-07-07 20:07:40,796 : INFO : Screenshot saved: screenshots\test_purchase_flow_20260707_200740.png
+2026-07-07 20:07:40,797 : INFO : Closing Browser
+2026-07-07 20:07:48,633 : INFO : ====== WebDriver manager ======
+2026-07-07 20:07:49,304 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:07:50,410 : INFO : Launching Chrome Browser
+2026-07-07 20:07:51,183 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:07:57,282 : INFO : Closing Browser
+2026-07-07 20:07:59,412 : INFO : ====== WebDriver manager ======
+2026-07-07 20:08:00,067 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:08:01,185 : INFO : Launching Chrome Browser
+2026-07-07 20:08:01,751 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:08:01,751 : INFO : Logging in with valid credentials
+2026-07-07 20:08:02,007 : INFO : login successful
+2026-07-07 20:08:02,245 : INFO : Closing Browser
+2026-07-07 20:08:04,387 : INFO : ====== WebDriver manager ======
+2026-07-07 20:08:05,100 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:08:06,232 : INFO : Launching Chrome Browser
+2026-07-07 20:08:08,803 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:08:08,804 : INFO : Logging in with valid credentials
+2026-07-07 20:08:09,092 : INFO : login successful
+2026-07-07 20:08:09,309 : INFO : Closing Browser
+2026-07-07 20:08:11,475 : INFO : ====== WebDriver manager ======
+2026-07-07 20:08:12,152 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:08:13,297 : INFO : Launching Chrome Browser
+2026-07-07 20:08:13,869 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:08:13,870 : INFO : Logging in with valid credentials
+2026-07-07 20:08:19,129 : INFO : login successful
+2026-07-07 20:08:19,332 : INFO : Closing Browser
+2026-07-07 20:08:21,478 : INFO : ====== WebDriver manager ======
+2026-07-07 20:08:22,128 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:08:23,214 : INFO : Launching Chrome Browser
+2026-07-07 20:08:23,804 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:08:23,804 : INFO : Logging in with valid credentials
+2026-07-07 20:08:24,054 : INFO : login successful
+2026-07-07 20:08:35,110 : INFO : Screenshot saved: screenshots\test_purchase_flow_20260707_200835.png
+2026-07-07 20:08:35,111 : INFO : Closing Browser
+2026-07-07 20:40:28,482 : INFO : ====== WebDriver manager ======
+2026-07-07 20:40:29,181 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:40:30,019 : INFO : Launching Chrome Browser
+2026-07-07 20:40:30,786 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:40:31,554 : INFO : Closing Browser
+2026-07-07 20:40:33,717 : INFO : ====== WebDriver manager ======
+2026-07-07 20:40:34,386 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:40:35,529 : INFO : Launching Chrome Browser
+2026-07-07 20:40:36,087 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:40:36,087 : INFO : Logging in with valid credentials
+2026-07-07 20:40:36,426 : INFO : login successful
+2026-07-07 20:40:36,655 : INFO : Closing Browser
+2026-07-07 20:40:38,790 : INFO : ====== WebDriver manager ======
+2026-07-07 20:40:39,447 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:40:40,555 : INFO : Launching Chrome Browser
+2026-07-07 20:40:41,155 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:40:41,156 : INFO : Logging in with valid credentials
+2026-07-07 20:40:41,446 : INFO : login successful
+2026-07-07 20:40:41,654 : INFO : Closing Browser
+2026-07-07 20:40:43,820 : INFO : ====== WebDriver manager ======
+2026-07-07 20:40:44,483 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:40:45,624 : INFO : Launching Chrome Browser
+2026-07-07 20:40:51,221 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:40:51,222 : INFO : Logging in with valid credentials
+2026-07-07 20:40:56,467 : INFO : login successful
+2026-07-07 20:40:56,697 : INFO : Closing Browser
+2026-07-07 20:40:58,850 : INFO : ====== WebDriver manager ======
+2026-07-07 20:40:59,507 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:41:00,590 : INFO : Launching Chrome Browser
+2026-07-07 20:41:01,367 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:41:01,368 : INFO : Logging in with valid credentials
+2026-07-07 20:41:01,626 : INFO : login successful
+2026-07-07 20:41:02,247 : INFO : Closing Browser
+2026-07-07 20:45:57,570 : INFO : ====== WebDriver manager ======
+2026-07-07 20:45:58,306 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:45:59,114 : INFO : Launching Chrome Browser
+2026-07-07 20:45:59,943 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:45:59,943 : INFO : Logging in with valid credentials
+2026-07-07 20:46:00,237 : INFO : login successful
+2026-07-07 20:46:05,372 : ERROR : Screenshot capture failed: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6ab623fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6ab624000+14980]
+	chromedriver!(No symbol) [0x7ff6ab167726]
+	chromedriver!(No symbol) [0x7ff6ab1b3083]
+	chromedriver!(No symbol) [0x7ff6ab1ea2d2]
+	chromedriver!(No symbol) [0x7ff6ab1e40d2]
+	chromedriver!(No symbol) [0x7ff6ab1e3892]
+	chromedriver!(No symbol) [0x7ff6ab1303e5]
+	chromedriver!GetHandleVerifier [0x7ff6abc07591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff6abc01902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff6abc27115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6ab641dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6ab64a82c+3b1ac]
+	chromedriver!(No symbol) [0x7ff6ab12f188]
+	chromedriver!GetHandleVerifier [0x7ff6abdd7b58+7c84d8]
+	KERNEL32!BaseThreadInitThunk [0x7ffe1ad7e957+17]
+	ntdll!RtlUserThreadStart [0x7ffe1d007c1c+2c]
+ 
+2026-07-07 20:46:05,373 : INFO : Closing Browser
+2026-07-07 20:46:15,795 : INFO : ====== WebDriver manager ======
+2026-07-07 20:46:16,521 : INFO : Driver [C:\Users\akhil\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-07-07 20:46:17,628 : INFO : Launching Chrome Browser
+2026-07-07 20:46:18,271 : INFO : Navigated to  https://www.saucedemo.com 
+2026-07-07 20:46:18,272 : INFO : Logging in with valid credentials
+2026-07-07 20:46:18,532 : INFO : login successful
+2026-07-07 20:46:19,176 : INFO : Closing Browser

@@ -1,12 +1,11 @@
-import pytest
-from utilities.config_reader import get_base_url
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from utilities.logger import LogGenerator
-import os 
+import os
 from datetime import datetime
 
+import pytest
+
+from utilities.driver_factory import DriverFactory
+from utilities.logger import LogGenerator
+from utilities.config import Config
 
 
 @pytest.fixture
@@ -14,24 +13,24 @@ def driver(request):
 
     logger = LogGenerator.log()
 
-    logger.info("Launching Chrome Browser")
-
-    driver = webdriver.Chrome(
-        service=Service(
-            ChromeDriverManager().install()
-        )
+    driver = DriverFactory.get_driver(
+        Config.BROWSER
     )
 
-    driver.maximize_window()
-    driver.get(get_base_url())
+    logger.info(f"Launching {Config.BROWSER.capitalize()} Browser")
 
-    logger.info("Navigated to Swag Labs")
+    driver.get(
+        Config.BASE_URL
+    )
+
+    logger.info(f"Navigated to  {Config.BASE_URL} ")
 
     #  Give the current test access to the driver
     request.node.driver = driver
 
     yield driver
 
+    logger.info("Closing Browser")
     driver.quit()
 
 
@@ -51,14 +50,20 @@ def pytest_runtest_makereport(item, call):
     if report.when == "call" and report.failed:
 
         driver = getattr(item, "driver", None)
+        logger = LogGenerator.log()
 
-        if driver:
-            os.makedirs("screenshots", exist_ok=True)
+        if driver is not None:
+            try:    
+                os.makedirs("screenshots", exist_ok=True)
 
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"{item.name}_{timestamp}.png"
-            filepath = os.path.join("screenshots", filename)
+                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                filename = f"{item.name}_{timestamp}.png"
+                filepath = os.path.join("screenshots", filename)
 
-            driver.save_screenshot(filepath)
+                driver.save_screenshot(filepath)
 
-            print(f"Screenshot saved: {filepath}")
+                
+                logger.info(f"Screenshot saved: {filepath}")
+
+            except Exception as e:
+                logger.error(f"Screenshot capture failed: {e} ")
